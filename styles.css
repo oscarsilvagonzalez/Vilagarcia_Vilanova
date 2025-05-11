@@ -24,10 +24,6 @@ ul {
     gap: 3em;
     padding: 2em;
     margin-bottom: 2em;
-    .p-header{
-        padding:1em;
-    }
-
 }
 
 .header .imagen {
@@ -132,6 +128,7 @@ span {
     }
     .p-header {
         color: #53d;
+        padding: 1em;
         strong{
             font-weight: 600;
             text-transform: uppercase;
