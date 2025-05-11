@@ -24,6 +24,10 @@ ul {
     gap: 3em;
     padding: 2em;
     margin-bottom: 2em;
+    .p-header{
+        padding:1em;
+    }
+
 }
 
 .header .imagen {
